@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #1f1f1f;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-image: url("./assets/wallpaper2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden !important;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding: 20px;
+}
+
+.container {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 250px; /* Adjust the width of the sidebar as needed */
+  background-color: rgba(0, 0, 0, 1);
+  padding-top: 20px;
+}
+
+/* Style for the links in the sidebar */
+.btn {
+  display: block;
+  padding: 10px 20px;
+  color: #fff; /* Link text color */
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  font-size: 20px;
+}
+
+.btn:hover {
+  background-color: #555; /* Change the hover background color as desired */
+}
+
+#github {
+  padding: 20px;
+  /* border-radius: 15px; */
+  background-color: rgba(0, 0, 0, 1);
+  width: fit-content;
+  align-content: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: 1;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+}
+
+img {
+  width: 1000px;
+}
+
+iframe {
+  width: 400px;
+}

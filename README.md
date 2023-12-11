@@ -1,5 +1,7 @@
 # thunderdome os
 
+![Screenshot from 2023-12-11 09-48-37](https://github.com/ABHIGYAN-MOHANTA/Thunderdome-Os-Chrome-Extension/assets/110360901/028b9455-4bda-486b-9e01-d7fc1967c710)
+
 ## setup
 
 ### you don't need to write any code or know how to code to set this up. It will take 2 mins max — promise
